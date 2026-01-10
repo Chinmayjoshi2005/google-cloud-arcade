@@ -8,18 +8,12 @@ Expertly crafted by Easy Game
 
 ### Run the following Commands in CloudShell
 
-```
-export ZONE_1=
-```
-```
-export ZONE_2=
-```
-
 ```bash
 curl -LO https://raw.githubusercontent.com/Chinmayjoshi2005/EasyGame/refs/heads/main/EasyGameT3L1.sh
 sudo chmod +x EasyGameT3L1.sh
 ./EasyGameT3L1.sh
 ```
+
 ### Congratulations !!!!
 
 Congrulations Your Lab is completed Successfully.
