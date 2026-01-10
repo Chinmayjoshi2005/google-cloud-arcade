@@ -1,0 +1,27 @@
+## Managing Deployments Using Kubernetes Engine
+
+Expertly crafted by Easy Game
+
+### Creator Chinu Bhai
+- **Use the code to complete the lab quickly without any issue and manual hard work.**
+
+
+### Run the following Commands in CloudShell
+
+```
+export ZONE_1=
+```
+```
+export ZONE_2=
+```
+
+```bash
+curl -LO https://raw.githubusercontent.com/Chinmayjoshi2005/EasyGame/refs/heads/main/EasyGameT3L1.sh
+sudo chmod +x EasyGameT3L1.sh
+./EasyGameT3L1.sh
+```
+### Congratulations !!!!
+
+Congrulations Your Lab is completed Successfully.
+
+[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Chinmay_Joshi-CJ?sub_confirmation=1)  
