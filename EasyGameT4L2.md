@@ -1,0 +1,30 @@
+## Configure Cloud Storage Bucket for Website Hosting using gsutil
+
+Expertly crafted by Easy Game
+
+### Creator Chinu Bhai
+- **Use the code to complete the lab quickly without any issue and manual hard work.**
+
+
+### Run the following Commands in CloudShell
+
+
+```bash
+export BUCKET=
+```
+```bash
+gsutil web set -m index.html -e error.html gs://$BUCKET
+gsutil uniformbucketlevelaccess set off gs://$BUCKET
+gsutil defacl set public-read gs://$BUCKET
+gsutil acl set -a public-read gs://$BUCKET/index.html
+gsutil acl set -a public-read gs://$BUCKET/error.html
+gsutil acl set -a public-read gs://$BUCKET/style.css
+gsutil acl set -a public-read gs://$BUCKET/logo.jpg
+```
+
+
+### Congratulations !!!!
+
+Congrulations Your Lab is completed Successfully.
+
+[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Chinmay_Joshi-CJ?sub_confirmation=1)  
