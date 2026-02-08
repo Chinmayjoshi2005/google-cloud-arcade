@@ -1,4 +1,4 @@
-## App Engine: Qwik Start - Java
+## VPC Network Peering
 
 Expertly crafted by Easy Game
 
@@ -9,7 +9,7 @@ Expertly crafted by Easy Game
 ### Run the following Commands in CloudShell
 
 ```bash
-curl -LO https://raw.githubusercontent.com/Chinmayjoshi2005/EasyGame/refs/heads/main/EasyGameT4L1.sh](https://raw.githubusercontent.com/Chinmayjoshi2005/EasyGame/refs/heads/main/vpc.sh
+curl -LO https://raw.githubusercontent.com/Chinmayjoshi2005/EasyGame/refs/heads/main/vpc.sh
 sudo chmod +x vpc.sh
 ./vpc.sh
 ```
